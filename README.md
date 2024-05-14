@@ -12,11 +12,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 ###
-<style>
-a img {
-    text-decoration: none;
-}
-</style>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -58,7 +53,7 @@ a img {
   <a href="https://t.me/lera4yu" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
   </a>
-  <a href="https://www.instagram.com/lera.yu_/" style="text-decoration: none;" target="_blank">
+  <a href="https://www.instagram.com/lera.yu_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
 </div>
